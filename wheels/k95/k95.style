@@ -1,0 +1,2752 @@
+{
+  "BackgroundColor": {
+    "Blue": 0,
+    "Green": 255,
+    "Red": 0
+  },
+  "BackgroundImageFileName": null,
+  "DefaultKeyStyle": {
+    "Loose": {
+      "Background": {
+        "Blue": 0,
+        "Green": 0,
+        "Red": 0
+      },
+      "BackgroundImageFileName": "keyb.png",
+      "Font": {
+        "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+        "FontFamily": "Biko",
+        "Size": 10,
+        "Style": 0
+      },
+      "Outline": {
+        "Blue": 0,
+        "Green": 255,
+        "Red": 0
+      },
+      "OutlineWidth": 1,
+      "ShowOutline": false,
+      "Text": {
+        "Blue": 255,
+        "Green": 255,
+        "Red": 255
+      }
+    },
+    "Pressed": {
+      "Background": {
+        "Blue": 255,
+        "Green": 255,
+        "Red": 255
+      },
+      "BackgroundImageFileName": "keyw.png",
+      "Font": {
+        "DownloadUrl": null,
+        "FontFamily": "Biko",
+        "Size": 10,
+        "Style": 0
+      },
+      "Outline": {
+        "Blue": 0,
+        "Green": 255,
+        "Red": 0
+      },
+      "OutlineWidth": 1,
+      "ShowOutline": false,
+      "Text": {
+        "Blue": 0,
+        "Green": 0,
+        "Red": 0
+      }
+    }
+  },
+  "DefaultMouseSpeedIndicatorStyle": {
+    "InnerColor": {
+      "Blue": 0,
+      "Green": 0,
+      "Red": 0
+    },
+    "OuterColor": {
+      "Blue": 0,
+      "Green": 0,
+      "Red": 0
+    },
+    "OutlineWidth": 1
+  },
+  "ElementStyles": [
+    {
+      "Key": 6,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "capsb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "capsw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 35,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": null,
+        "Pressed": null
+      }
+    },
+    {
+      "Key": 87,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "shiftb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "shiftw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 89,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "tabb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "tabw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 1,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "tabb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "tabw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 91,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "altb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "altw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 55,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 7,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "spaceb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 10,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "spacew.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 10,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 88,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "shiftb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "shiftw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 2,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "shiftb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "shiftw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 0,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "shiftb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "shiftw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 58,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "shiftb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 10,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "shiftw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 10,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 69,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "enterb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 11.999999,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "enterw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 11.999999,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 3,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "enterb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "enterw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 90,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "altb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "altw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 42,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": null,
+        "Pressed": null
+      }
+    },
+    {
+      "Key": 8,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 5.24999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 5.24999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 9,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 5.24999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 5.24999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 92,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 15,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 5.99999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 5.99999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 13,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 5.99999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 5.99999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 14,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": null,
+        "Pressed": null
+      }
+    },
+    {
+      "Key": 12,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": null,
+        "Pressed": null
+      }
+    },
+    {
+      "Key": 94,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 11.25,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 103,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 14.249999,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 14.249999,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 85,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 99,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": null,
+        "Pressed": null
+      }
+    },
+    {
+      "Key": 48,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": null,
+        "Pressed": null
+      }
+    },
+    {
+      "Key": 71,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 14.249999,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 14.249999,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 96,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 14.249999,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 14.249999,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 97,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 14.249999,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 14.249999,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 121,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "tabb.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "tabw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 123,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "altb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "altw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 122,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 6.74999952,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 124,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 125,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 18,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 18,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 128,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 8,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 8,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 127,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 18,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 18,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 126,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 8,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 8,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 132,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 133,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 152,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 68,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 10,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 10,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 72,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 139,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 138,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 137,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 136,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 135,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 134,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "keyb.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "keyw.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Biko",
+            "Size": 9,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 153,
+      "Value": {
+        "__type": "MouseSpeedIndicatorStyle",
+        "InnerColor": {
+          "Blue": 0,
+          "Green": 0,
+          "Red": 0
+        },
+        "OuterColor": {
+          "Blue": 0,
+          "Green": 0,
+          "Red": 255
+        },
+        "OutlineWidth": 2
+      }
+    },
+    {
+      "Key": 157,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "mousebg.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/www.dafont.com\/biko.font",
+            "FontFamily": "Microsoft Sans Serif",
+            "Size": 10,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          },
+          "BackgroundImageFileName": "mousebg.png",
+          "Font": {
+            "DownloadUrl": null,
+            "FontFamily": "Microsoft Sans Serif",
+            "Size": 10,
+            "Style": 0
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 255,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    }
+  ]
+}
